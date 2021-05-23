@@ -1,0 +1,9 @@
+C:\Users\Pouya\documents\visual studio 2017\Projects\Triangle Project\Triangle Project\bin\Debug\Triangle Project.exe.config
+C:\Users\Pouya\documents\visual studio 2017\Projects\Triangle Project\Triangle Project\bin\Debug\Triangle Project.exe
+C:\Users\Pouya\documents\visual studio 2017\Projects\Triangle Project\Triangle Project\bin\Debug\Triangle Project.pdb
+C:\Users\Pouya\documents\visual studio 2017\Projects\Triangle Project\Triangle Project\obj\Debug\Triangle_Project.Form1.resources
+C:\Users\Pouya\documents\visual studio 2017\Projects\Triangle Project\Triangle Project\obj\Debug\Triangle_Project.Properties.Resources.resources
+C:\Users\Pouya\documents\visual studio 2017\Projects\Triangle Project\Triangle Project\obj\Debug\Triangle Project.csproj.GenerateResource.Cache
+C:\Users\Pouya\documents\visual studio 2017\Projects\Triangle Project\Triangle Project\obj\Debug\Triangle Project.exe
+C:\Users\Pouya\documents\visual studio 2017\Projects\Triangle Project\Triangle Project\obj\Debug\Triangle Project.pdb
+C:\Users\Pouya\documents\visual studio 2017\Projects\Triangle Project\Triangle Project\obj\Debug\Triangle Project.csprojResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+Variables have been created in the base workspace.
+To use the exported classifier 'trainedClassifier' to make predictions on new data, T, use: 
+  yfit = trainedClassifier.predictFcn(T)
